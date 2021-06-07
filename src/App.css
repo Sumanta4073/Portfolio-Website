@@ -1,9 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Montserrat:wght@100;300;700&display=swap');
-
-body {
-  font-family: 'Montserrat', sans-serif;
-}
-
 /* Navigation Bar */
 nav {
   z-index: 1000;
@@ -318,7 +312,7 @@ nav ul li {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 250px;
+  margin-top: 350px;
 }
 .cntnr .card .imgbx img{
   height: 200px;
