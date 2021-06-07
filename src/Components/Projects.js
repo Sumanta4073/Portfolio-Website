@@ -24,7 +24,7 @@ const Projects = () => {
             background: "black",
             marginTop: "30px",
             marginBottom: "30px",
-            height:"560px"
+            height:"590px"
           }}
         >
           <Card.Img variant="top" style={{ marginTop: "10px" }} src={Adsoul} />
@@ -53,7 +53,7 @@ const Projects = () => {
             background: "black",
             marginTop: "30px",
             marginBottom: "30px",
-            height:"560px"
+            height:"590px"
           }}
         >
           <Card.Img
@@ -86,7 +86,7 @@ const Projects = () => {
             background: "black",
             marginTop: "30px",
             marginBottom: "30px",
-            height:"560px"
+            height:"590px"
           }}
         >
           <Card.Img variant="top" style={{ marginTop: "10px" }} src={Food} />
@@ -115,7 +115,7 @@ const Projects = () => {
             background: "black",
             marginTop: "30px",
             marginBottom: "30px",
-            height:"560px"
+            height:"590px"
           }}
         >
           <Card.Img variant="top" style={{ marginTop: "10px" }} src={Nasa} />
@@ -143,7 +143,7 @@ const Projects = () => {
             background: "black",
             marginTop: "30px",
             marginBottom: "30px",
-            height:"560px"
+            height:"590px"
           }}
         >
           <Card.Img
@@ -177,7 +177,7 @@ const Projects = () => {
             background: "black",
             marginTop: "30px",
             marginBottom: "30px",
-            height:"560px"
+            height:"590px"
           }}
         >
           <Card.Img variant="top" style={{ marginTop: "10px" }} src={Zoom} />
