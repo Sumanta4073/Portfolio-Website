@@ -386,9 +386,9 @@ nav ul li {
     height: 3000px;
   }
   .cntnr .card{
-    width: 200px !important;
-    height: 300px !important;
-    margin: 15px !important;
+    width: 230px!important;
+    height: 300px!important;
+    margin: 15px!important;
   }
   .head-bg{
     width: auto;
@@ -535,7 +535,7 @@ flex-flow: column;
     width: auto !important;
   }
   .contnr .card{
-    width: 288px !important;
+    width: 298px !important;
   }
 }
 

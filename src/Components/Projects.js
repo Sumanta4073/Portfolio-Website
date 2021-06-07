@@ -64,12 +64,11 @@ const Projects = () => {
           <Card.Body variant="Secondary">
             <Card.Title style={{ color: "#f9ab00" }}>CHUCK NORRIES</Card.Title>
             <Card.Text style={{ color: "white" }}>
-              This is bacically a Jokes website. This is a single page website
-              that shows a list of categories of Chuck Norris jokes to choose
-              from.Once a category is selected, a joke from that category is
-              shown. If a new joke is needed, user needs to click on “new joke”
-              which fetches a different joke and shows the user.< br/> Technology –
-              JSX, React.js, CSS, Fetch API.
+              This is a single page websitethat shows a list of categories 
+              of Chuck Norris jokes to choose from. Once a category is selected,
+              a joke from that category is shown. for a new jokes, user needs to
+              click on “new joke” which fetches a different jokeand shows the user.
+              < br/> Technology – JSX, React.js, CSS, Fetch API.
             </Card.Text>
             <a target=' ' href="https://github.com/Abhilashkashyap96/Chuck_Norries">
               <Button variant="light" style={{ color: "#000", marginTop:"10px" }}>
