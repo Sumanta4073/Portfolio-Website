@@ -20,12 +20,12 @@ const About = () => {
               Node.js, Express.js and gitHub for version control. I have successfully completed my B.Tech in
               the year 2020 from Government college of engineering and ceramic
               technology with specalization in Computer science and engineering.
-              Since when I stepped into the world of web development my goal is
+              Ever since I stepped into the world of web development my goal is
               to always build amazing quality of websites. Also, I am passionate
               to learn about new technologies, I use them to build better and
               scalable websites. I love playing games like Football, Badminton
               and also I love to spend times playing musical instruments like
-              Keyboard, Guitar.<br/><br/>That's all about me<br/> -Abhilash Kashyap
+              Keyboard, Guitar.<br /><br />That's all about me<br /> -Abhilash Kashyap
             </p>
           </div>
         </div>

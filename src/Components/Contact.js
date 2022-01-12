@@ -50,7 +50,7 @@ const Contact = () => {
               </a>
             </div>
           </div>
-          <a target=' ' href="https://drive.google.com/file/d/1ngAmF7cgmkyVCn-zTODFEPu0MRUY-meT/view?usp=sharing">
+          <a target=' ' href="https://drive.google.com/file/d/1b7HnTk0Xgu_Bd3RB1CIR0KoorekFLX_2/view?usp=sharing">
             <button className="butn">DOWNLOAD RESUME</button>
           </a>
         </div>
